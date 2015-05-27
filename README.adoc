@@ -7,9 +7,9 @@ image::doc/images/rhheader.png[width=900]
 :numbered!:
 
 == PURPOSE:
-This reference architecture is a comparitive description of the SOA and BPM offerings from TIBCO and RHT. This will attempt to showcase the 2 different architecutural approaches and the points of convergence and divergence.
+This reference architecture is a comparitive description of the middleware offerings (covering SOA for now) from TIBCO and RHT. This will attempt to showcase the two different architectural approaches and the points of convergence and divergence.
 
 == OVERVIEW:
-Partners have expressed an interest in having a methodology and architecture when recommending a Fuse-based architecture to existing TIBCO customers. They would like to present a method of migration assets between the 2 systems as a combination of some automation as well as a manual migration or re-working of the assets. This reference architecture attempts to address this requirement by describing the SOA and BPM architecture of TIBCO and providing recommendations on how one might go about moving from the existing application and middleware landscape at an existing TIBCO customer to Red Hat.
+Partners have expressed an interest in having a methodology and architecture when recommending a Fuse-based architecture to existing TIBCO customers. They would like to present a method for migrating assets between the two; a combination of some automation as well as a manual migration or re-working of the assets. This reference architecture attempts to address this requirement by describing the SOA architecture of TIBCO and providing recommendations on how one might go about moving from the existing application and middleware landscape at an existing TIBCO customer to Red Hat. This document is work in progress.
 
 For more details on the architecture, consult the link:doc/ref_arch.adoc[project documentation].
